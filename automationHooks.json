@@ -1,0 +1,7 @@
+{
+  "HEADER": { "hook": "header", "description": "asd" },
+  "WELCOME": {
+    "hook": "welcome-text",
+    "description": "The welcome header hook"
+  }
+}
