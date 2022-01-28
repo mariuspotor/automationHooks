@@ -1,4 +1,4 @@
-import { hook } from "./hookUtil";
+import { hook } from "../utils/hook";
 
 export default function Header({ dataHook }) {
   return (

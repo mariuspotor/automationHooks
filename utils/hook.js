@@ -1,6 +1,6 @@
 const dataAttribute = "data-hook";
 
-const withValue = (hook, value) => {
+export const withValue = (hook, value) => {
   return `${hook}_${value}`;
 };
 
